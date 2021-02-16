@@ -9,7 +9,7 @@ Here are a few things I've picked up along my learning journey.
 
 * 🗣 Python | Java | GoLang | C++ 
 * 🛢️ PostGreSQL | Redis | Kafka
-* :octocat: Git | Github
+* :octocat: Git | Github | CI/CD
 * 🌱  Spring Boot, Deep Learning
 
 ## 📫 Get in touch
