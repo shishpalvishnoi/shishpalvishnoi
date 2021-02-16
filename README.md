@@ -2,16 +2,15 @@
 
 I am a Software Developer. I am passionate about technologies and love to learn new things.
 
-#### 🔭 I’m currently looking for new opportunities.
-
 
 ## ⚡ Tech Stack
 
 Here are a few things I've picked up along my learning journey.
 
 * 🗣 Python | Java | GoLang | C++ 
-* 🛢️ MySQL | SQLite | PostGreSQL
+* 🛢️ PostGreSQL | MySQL | Redis | Kafka
 * :octocat: Git | Github
+* Spring Boot, Deep Learning
 
 ## 📫 Get in touch
 - LinkedIn - [shishpal](https://www.linkedin.com/in/shishpal)
