@@ -1,16 +1,27 @@
-### Hi there 👋
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Shishpal Vishnoi 👨‍💻
 
-<!--
-**shishpalvishnoi/shishpalvishnoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Software Developer. I am passionate about technologies and love to learn new things.
 
-Here are some ideas to get you started:
+#### 🔭 I’m currently looking for new opportunities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## ⚡ Tech Stack
+
+Here are a few things I've picked up along my learning journey.
+
+* 🗣 Python | Java | GoLang | C++ 
+* 🛢️ MySQL | SQLite | PostGreSQL
+* :octocat: Git | Github
+
+## 📫 Get in touch
+- LinkedIn - [shishpal](https://www.linkedin.com/in/shishpal)
+- Portfolio - [shishpalvishnoi.github.io](https://shishpalvishnoi.github.io/)
+
+ or give some ♥ on [mail](mailto:shishpal.nitsri@gmail.com) .
+
+
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=shishpalvishnoi/shishpalvishnoi)
+
+
+ 
