@@ -13,7 +13,7 @@ Here are a few things I've picked up along my learning journey.
 * 🌱  Spring Boot, Deep Learning
 
 ## 📫 Get in touch
-- Portfolio - [shishpalvishnoi.github.io](https://shishpalvishnoi.github.io/){:target="_blank"}
+- Portfolio - [shishpalvishnoi.github.io](https://shishpalvishnoi.github.io/)
 
  or give some ♥ on [mail](mailto:shishpal.nitsri@gmail.com) .
 
