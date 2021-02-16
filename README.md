@@ -14,7 +14,7 @@ Here are a few things I've picked up along my learning journey.
 
 ## 📫 Get in touch
 - Portfolio - [shishpalvishnoi.github.io](https://shishpalvishnoi.github.io/)
-- Google Scholer - [shishpal](https://scholar.google.com/citations?hl=en&user=Ri9w1ToAAAAJ)
+- Google Scholar - [shishpal](https://scholar.google.com/citations?hl=en&user=Ri9w1ToAAAAJ)
 
  or give some ♥ on [mail](mailto:shishpal.nitsri@gmail.com) .
 
