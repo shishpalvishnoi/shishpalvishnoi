@@ -8,7 +8,7 @@ I am a Software Developer. I am passionate about technologies and love to learn 
 Here are a few things I've picked up along my learning journey.
 
 * 🗣 Python | Java | GoLang | C++ 
-* 🛢️ PostGreSQL | MySQL | Redis | Kafka
+* 🛢️ PostGreSQL | Redis | Kafka
 * :octocat: Git | Github
 * Spring Boot, Deep Learning
 
