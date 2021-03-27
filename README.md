@@ -7,10 +7,9 @@ I am a Software Developer. I am passionate about technologies and love to learn 
 
 Here are a few things I've picked up along my learning journey.
 
-* 🗣 C++ | GoLang | Java | Python
+* 🗣 C++ | GoLang | Java | Spring Boot
 * 🛢️ PostGreSQL | Redis | Kafka
 * :octocat: Git | Github | CI/CD
-* 🌱  Spring Boot, Deep Learning
 
 ## 📫 Get in touch
 - Portfolio - [shishpalvishnoi.github.io](https://shishpalvishnoi.github.io/)
