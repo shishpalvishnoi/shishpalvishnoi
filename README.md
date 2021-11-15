@@ -7,9 +7,9 @@ I am a Software Engineer at Nurture.farm. I am passionate about technologies and
 
 Here are a few things I've picked up along my learning journey.
 
-* 🗣 C++ | GoLang | Java | Spring Boot
-* 🛢️ PostGreSQL | Redis | Kafka
-* :octocat: Git | Github | CI/CD
+* 🗣 C++ | GoLang | Java | Spring Boot | Python
+* 🛢️ PostGreSQL | MySQL| Redis | Kafka | S3
+* :octocat: Kubernetes | Helm | SonarQube | Docker
 
 ## 📫 Get in touch
 - Portfolio - [shishpalvishnoi.github.io](https://shishpalvishnoi.github.io/)
